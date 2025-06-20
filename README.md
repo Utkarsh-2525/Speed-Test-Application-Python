@@ -31,7 +31,9 @@ It features a terminal interface enhanced with cool emojis and symbols, plus voi
 
 ```bash
 pip install speedtest-cli pyttsx3
+```
 
 ## Usage
 ```bash
 pip install pypiwin32
+```
