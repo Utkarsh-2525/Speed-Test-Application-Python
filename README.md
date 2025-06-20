@@ -33,7 +33,7 @@ It features a terminal interface enhanced with cool emojis and symbols, plus voi
 pip install speedtest-cli pyttsx3
 ```
 
-# Install the package
+### Install the package
 ```bash
 pip install pypiwin32
 ```
