@@ -37,3 +37,26 @@ pip install speedtest-cli pyttsx3
 ```bash
 pip install pypiwin32
 ```
+
+## Usage
+```bash
+python main.py
+```
+
+## Example Output
+🧠 SYSTEM ONLINE
+🔒 Accessing terminal...
+🛰️  Establishing connection...
+
+🤖: 🟢 WELCOME | MR. UTKARSH MISHRA | SYSTEM INITIALIZED ✅
+
+📡 Scanning for optimal server...
+📍 Server selected: speedtest.server.com (Country)
+
+📥 Testing download speed...
+📤 Testing upload speed...
+
+📶 INTERNET SPEED TEST RESULTS:
+⬇️  Download: 150.25 Mbps
+⬆️  Upload:   30.12 Mbps
+📶  Ping:      12.34 ms
